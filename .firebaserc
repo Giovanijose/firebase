@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-38bf4": {
+      "hosting": {
+        "angular-firebase": [
+          "angular-38bf4"
+        ]
+      }
+    }
+  }
+}
